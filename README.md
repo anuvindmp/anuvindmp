@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence at Amrita Vishwa Vidyapeetham. I’m a full-stack developer with hands-on experience in using technologies like Node.js. My interests extend deeply into the world of AI, where I’ve worked on various projects involving deep learning, machine learning, and LLM agents.
+I code
 
 
 ## 🌐 Socials:
