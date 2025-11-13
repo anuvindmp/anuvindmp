@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I code
 
 
@@ -7,7 +7,7 @@ I code
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anuvindmp&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=anuvindmp&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuvindmp&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
